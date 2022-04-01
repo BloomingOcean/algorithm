@@ -1,2 +1,6 @@
 # algorithm
-Algorithm practice
+个人算法练习-面试篇
+
+计划看的算法书籍：
+（√）《图解算法》
+（√×）《算法第四版》
